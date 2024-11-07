@@ -3,11 +3,11 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color:#ECC2CE;
+  background-color:#8100de;
 }
 
 span {
-  color: white;
+  color: rgb(255, 50, 50);
   animation: animate 3s linear infinite;
 }
 
